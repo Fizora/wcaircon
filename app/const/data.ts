@@ -67,7 +67,7 @@ export const navLinksByLang: Record<LangCode, NavItem[]> = {
 };
 
 export const contactInfo = {
-  phone: "+61 400 000 000",
+  phone: "+44 555 777 999",
   email: "support@wcaircon.com",
   operationalHours: "Mon - Sat: 08:00 AM - 06:00 PM",
 };
@@ -142,7 +142,7 @@ const enContent = {
         description:
           "Unit blowing warm air, tripping the breaker, or displaying error codes? We carry common parts in our vans for on-the-spot fixes.",
         image: {
-          src: "/img/service-repair.jpg",
+          src: "/img/service.jpg",
           alt: "Technician diagnosing an outdoor air conditioning compressor",
         },
         cta: "Book Urgent Repair",
@@ -155,7 +155,7 @@ const enContent = {
         description:
           "Full coil sanitization and pressurized bag wash to strip away hidden black mold, allergens, and restore maximum airflow.",
         image: {
-          src: "/img/service-clean.jpg",
+          src: "/img/service.jpg",
           alt: "Technician performing a deep chemical wash on a split system indoor unit",
         },
         cta: "Schedule Deep Clean",
@@ -168,7 +168,7 @@ const enContent = {
         description:
           "Supply and neat back-to-back installation of whisper-quiet, energy-efficient inverter systems sized perfectly for your rooms.",
         image: {
-          src: "/img/service-install.jpg",
+          src: "/img/service.jpg",
           alt: "Newly installed modern white wall-mounted split system air conditioner",
         },
         cta: "Get Free Install Quote",
@@ -181,7 +181,7 @@ const enContent = {
         description:
           "Precision electronic leak detection, pipe brazing, and R32 / R410A refrigerant recharging to stop ice buildup and weak cooling.",
         image: {
-          src: "/img/service-regas.jpg",
+          src: "/img/service.jpg",
           alt: "Digital manifold gauges connected to an AC unit checking refrigerant pressure",
         },
         cta: "Book Gas Check",
@@ -194,7 +194,7 @@ const enContent = {
         description:
           "Stop water dripping down your interior walls. We flush blocked condensate drains, sanitize drip trays, and test drainage flow.",
         image: {
-          src: "/img/service-drain.jpg",
+          src: "/img/service.jpg",
           alt: "Technician clearing and testing an air conditioner condensate drain line",
         },
         cta: "Fix Water Leak",
@@ -207,7 +207,7 @@ const enContent = {
         description:
           "Complete 18-point mechanical, electrical, and thermostat inspection to prevent costly breakdowns before peak summer heat hits.",
         image: {
-          src: "/img/service-maintenance.jpg",
+          src: "/img/service.jpg",
           alt: "Technician inspecting aircon filters and electrical terminals",
         },
         cta: "Book Annual Tune-Up",
